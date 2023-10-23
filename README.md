@@ -1,2 +1,2 @@
 # 02-proxy
-part of project-two.
+Part of project BSS/OSS suite.
